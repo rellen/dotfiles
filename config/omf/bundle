@@ -1,0 +1,4 @@
+package direnv
+package powerline
+theme bobthefish
+theme default
