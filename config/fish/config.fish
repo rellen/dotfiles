@@ -18,7 +18,7 @@ alias giff "git diff"
 alias grest "git restore"
 
 alias mt "mix test"
-alias ips "iex -S phx.server"
+alias ips "iex -S mix phx.server"
 
 alias gx "gigalixir"
 alias gxl "gigalixir logs"
