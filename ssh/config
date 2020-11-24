@@ -1,2 +1,5 @@
 Host github.com
   IdentityFile ~/.ssh/github_cyclonus
+
+Host bitbucket.org
+  IdentityFile ~/.ssh/alembic_bitbucket_cyclonus
