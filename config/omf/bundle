@@ -1,4 +1,5 @@
+package bass
+package brew
 package direnv
-package powerline
 theme bobthefish
 theme default
